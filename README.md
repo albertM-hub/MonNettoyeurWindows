@@ -27,4 +27,4 @@ Bienvenue sur le dépôt de mon utilitaire de maintenance pour Windows 11. Ce pr
    ```bash
 
    pip install customtkinter psutil winshell
-   [Capture d'écran de l'interface](mon-nettoyeur-1.png)(mon-nettoyeur-2,png)
+
