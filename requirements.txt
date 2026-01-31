@@ -1,0 +1,4 @@
+customtkinter
+winshell
+psutil
+pyinstaller
