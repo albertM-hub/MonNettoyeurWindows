@@ -30,9 +30,10 @@ Bienvenue sur le dépôt de mon utilitaire de maintenance pour Windows 11. Ce pr
 ### Aperçu de l'interface de nettoyage
 ![Nettoyage](mon-nettoyeur-1.png)
 
-### Diagnostic du système
+### Mode d'emploi
 ![Mode d'emploi](mon-nettoyeur-2.png)
    
+
 
 
 
