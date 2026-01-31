@@ -27,4 +27,11 @@ Bienvenue sur le dépôt de mon utilitaire de maintenance pour Windows 11. Ce pr
    ```bash
 
    pip install customtkinter psutil winshell
+### Aperçu de l'interface de nettoyage
+![Nettoyage](mon-nettoyeur-1.png)
+
+### Diagnostic du système
+![Diagnostic](mon-nettoyeur-2.png)
+   
+
 
