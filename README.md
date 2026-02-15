@@ -1,31 +1,38 @@
 # 🧹 Mon Compagnon de Nettoyage Windows
 
-![Version](https://img.shields.io/badge/version-1.2-green)
-![Python](https://img.shields.io/badge/python-3.8+-blue)
+![Version](https://img.shields.io/badge/version-1.2-brightgreen)
+![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-orange)
+![Downloads](https://img.shields.io/github/downloads/albertM-hub/MonNettoyeurWindows/total)
 
 Un nettoyeur Windows puissant et sécurisé avec interface graphique moderne.
 
+## 📸 Aperçu
+*(Tu pourras ajouter une capture d'écran ici plus tard)*
+
 ## ✨ Fonctionnalités
 
-- 🗑️ **Nettoyage intelligent** - Fichiers temporaires, doublons, documents, musiques, vidéos
-- 🛡️ **Sécurité renforcée** - Protection des dossiers système, sauvegarde automatique
-- 📊 **Diagnostic système** - RAM, CPU, espace disque en temps réel
-- 📂 **Top 20 des gros fichiers** - Identifie ce qui prend de la place
-- 🔄 **Mises à jour automatiques** - Vérification et installation des nouvelles versions
-- 📦 **Gestionnaire de logiciels** - Liste et désinstallation des programmes
-- 📝 **Rapports détaillés** - Traçabilité de toutes les actions
+| Fonctionnalité | Description |
+|----------------|-------------|
+| 🗑️ **Nettoyage intelligent** | Fichiers temporaires, doublons, documents, musiques, vidéos |
+| 🛡️ **Sécurité renforcée** | Protection des dossiers système, sauvegarde automatique |
+| 📊 **Diagnostic système** | RAM, CPU, espace disque en temps réel |
+| 📂 **Top 20 fichiers** | Identifie ce qui prend de la place |
+| 🔄 **Mises à jour** | Vérification et installation automatique |
+| 📦 **Gestionnaire logiciels** | Liste et désinstallation des programmes |
+| 📝 **Rapports détaillés** | Traçabilité de toutes les actions |
 
 ## 🚀 Installation
 
-### Méthode 1 : Exécutable (recommandé)
-1. Télécharge la dernière version depuis [Releases](https://github.com/votreusername/MonNettoyeurWindows/releases)
-2. Lance `CleanerPro.exe` (aucune installation requise)
+### Option 1 : Exécutable (recommandé)
+1. Va dans la section [Releases](https://github.com/albertM-hub/MonNettoyeurWindows/releases)
+2. Télécharge `CleanerPro.exe`
+3. Lance-le ! (aucune installation requise)
 
-### Méthode 2 : Depuis les sources
+### Option 2 : Depuis les sources
 ```bash
 # Cloner le dépôt
-git clone https://github.com/votreusername/MonNettoyeurWindows.git
+git clone https://github.com/albertM-hub/MonNettoyeurWindows.git
 
 # Installer les dépendances
 pip install -r requirements.txt

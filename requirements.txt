@@ -1,6 +1,4 @@
-customtkinter==5.2.2
-winshell==0.6
-psutil==7.2.2
-send2trash==1.8.3
-requests==2.31.0
-pyinstaller==6.3.0  # Pour créer l'exécutable
+customtkinter - Interface graphique moderne
+psutil - Informations système
+send2trash - Suppression sécurisée vers corbeille
+winshell - Gestion de la corbeille Windows
